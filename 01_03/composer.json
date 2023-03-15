@@ -1,0 +1,15 @@
+{
+    "name": "lincy_gonzalez/01_03",
+    "description": "Crear un tópico de Apache Kafka usando PHP",
+    "autoload": {
+        "psr-4": {
+            "LincyGonzalez\\0103\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LinkedIn Learning"
+        }
+    ],
+    "require": {}
+}
