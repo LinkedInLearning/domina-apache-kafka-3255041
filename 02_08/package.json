@@ -1,0 +1,15 @@
+{
+  "name": "02_08",
+  "version": "1.0.0",
+  "description": "Obtener una lista de tópicos del servidor Apache Kafka usando Node.js",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LinkedIn Learning",
+  "license": "ISC",
+  "dependencies": {
+    "kafka-node": "^5.0.0"
+  }
+}
