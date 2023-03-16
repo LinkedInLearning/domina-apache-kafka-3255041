@@ -1,0 +1,14 @@
+{
+    "name": "lista_topicos_php/02_09",
+    "autoload": {
+        "psr-4": {
+            "LinkedInLearning\\0209\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LinkedIn Learning"
+        }
+    ],
+    "require": {}
+}
