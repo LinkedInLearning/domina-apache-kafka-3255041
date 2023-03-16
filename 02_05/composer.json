@@ -1,0 +1,14 @@
+{
+    "name": "consumidores_php/02_05",
+    "autoload": {
+        "psr-4": {
+            "LinkedInLearning\\0205\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LinkedIn Learning"
+        }
+    ],
+    "require": {}
+}
