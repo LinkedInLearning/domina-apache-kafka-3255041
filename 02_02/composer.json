@@ -1,0 +1,14 @@
+{
+    "name": "productores_kafka_php/02_02",
+    "autoload": {
+        "psr-4": {
+            "LinkedInLearning\\0202\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LinkedIn Learning"
+        }
+    ],
+    "require": {}
+}
