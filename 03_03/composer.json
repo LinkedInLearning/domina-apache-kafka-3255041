@@ -1,0 +1,14 @@
+{
+    "name": "errores_kafka_php/03_03",
+    "autoload": {
+        "psr-4": {
+            "LinkedInLearning\\0303\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LinkedIn Learning"
+        }
+    ],
+    "require": {}
+}
