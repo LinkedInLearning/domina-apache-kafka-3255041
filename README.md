@@ -6,7 +6,7 @@ Este es el repositorio del curso de LinkedIn Learning `[Domina Apache Kafka]`. E
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
+Aprende, independientemente de tu nivel de experiencia, un conjunto completo de herramientas y conocimientos prácticos para profundizar en tu comprensión de Apache Kafka. En el contenido formativo se presentarán ejercicios y ejemplos concretos para aplicar Apache Kafka en situaciones del mundo real, y se enfocará en cómo resolver problemas y mejorar el rendimiento en situaciones complejas. También aprenderás sobre las últimas tendencias y técnicas de Apache Kafka, y tendrás la oportunidad de explorar tu propio conjunto de habilidades y fortalecer tus capacidades en este entorno en constante cambio.
 
 ## Instrucciones
 
