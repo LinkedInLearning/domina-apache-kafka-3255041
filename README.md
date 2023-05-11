@@ -1,6 +1,6 @@
 # Domina Apache Kafka
 
-Este es el repositorio del curso de LinkedIn Learning `[Domina Apache Kafka]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Domina Apache Kafka`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![image](https://github.com/LinkedInLearning/domina-apache-kafka-3255041/assets/71371373/43eb4f14-910e-4512-9e7f-7fc386d62ec5)
 
